@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="certifi" />
+          <option value="distro" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="ipykernel" />
+          <option value="ipython" />
+          <option value="jiter" />
+          <option value="jupyter_client" />
+          <option value="nest-asyncio" />
+          <option value="numpy" />
+          <option value="openai" />
+          <option value="pandas" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="sniffio" />
+          <option value="tornado" />
+          <option value="tqdm" />
+          <option value="typing-inspection" />
+          <option value="tzdata" />
+          <option value="wcwidth" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
